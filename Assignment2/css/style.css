@@ -1,0 +1,275 @@
+a {
+    color: whitesmoke;
+}
+
+a#witlink {
+    color: blue;
+}
+
+article{
+    float: right;
+    color: darkblue;
+}
+
+aside#Cooking {
+    width: 50%;
+    padding-left: 1em;
+    margin-left: 1em;
+    float: right;
+    border-width: thick;
+    border-style: groove;
+    border-color: dodgerblue;
+}
+
+aside#GO {
+    width: 50%;
+    padding-left: 1em;
+    margin-left: 1em;
+    float: right;
+    border-width: thick;
+    border-style: groove;
+    border-color: dodgerblue;
+}
+
+aside#Netflix {
+    width: 50%;
+    padding-left: 1em;
+    margin-left: 1em;
+    float: left;
+    border-width: thick;
+    border-style: groove;
+    border-color: dodgerblue;
+}
+
+blockquote i {
+    color: whitesmoke;
+    position:static;
+    display:inline-block;
+}
+
+body {
+    background-color: #00ddff;
+}
+
+caption {
+    text-transform: uppercase;
+    color: darkblue;
+    font-size: 150%;
+    font-style: oblique;
+    font-weight: bold;
+    padding-bottom: 1.5em;
+    margin-top: 4em;
+    text-align: center;
+}
+
+div.box1 {
+    border-radius: 10%;
+    width: 310px;
+    height: 260px;
+    border: 3px solid #000;
+    border-color: whitesmoke;
+    text-align:center;
+    float: left;
+}
+
+div.box2 {
+    border-radius: 10%;
+    width: 350px;
+    height: 300px;
+    border: 3px solid #000;
+    border-color: #ff7070;
+    text-align: center;
+    float: right;
+}
+div.box3 {
+    border-radius: 10%;
+    width: 360px;
+    height: 260px;
+    border: 3px solid #000;
+    border-color: cornflowerblue;
+    text-align: center;
+    float: left;
+    margin-left: 28%;
+    position:relative;
+}
+
+footer{
+    text-align: center;
+    font-family: cursive;
+    font-size: 150%;
+    background-color: skyblue;
+    color: white;
+}
+
+h1{
+    background-color: navy;
+    text-align: center;
+    font-size: 250%;
+    color: #ff7070;
+}
+
+h2 {
+    font-size: 100%;
+}
+
+h3 {
+    color: #ff7070;
+    text-decoration: underline;
+    font-size: 110%;
+    text-transform:uppercase;
+    margin-bottom: -0.1em;
+}
+
+header {
+    font-size: 130%;
+    font-style: oblique;
+    color: blue;
+    margin-top: 1em;
+    text-align: center;
+    text-decoration: overline;
+    text-decoration-style: dotted;
+}
+
+header#homepage {
+    text-decoration: none;
+    margin-top: -2em;
+     text-align: center;
+    font-family: cursive;
+    background-color: skyblue;
+    color: white;
+}
+
+main {
+    margin-top: 3.5em;
+}
+
+main#hp {
+    background: url(../images/flagoffrance.png) center no-repeat;
+    background-size: cover;
+}
+
+main header b a {
+    color: aqua;
+}
+
+nav {
+    width: auto;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding-right: 1.5em;
+    background-color: #4169E1;
+}
+
+nav ul li a {
+    font-style:normal;
+    font-size: 140%;
+    text-align: center;
+    font-weight: bolder;
+}
+
+nav ul li a:hover {
+    font-style: oblique;
+    color: white;
+}
+
+ol li{
+    color: darkblue;
+    text-align: center;
+    text-transform:capitalize;
+    line-height: 3;
+    text-decoration: underline;
+    font-size: 125%;
+}
+
+p{
+    color: darkblue;
+    font-size: 112%;
+    display:inline-block;
+}
+
+.pchangeaesthetic{
+    font-weight: bold;
+    font-style: oblique;
+    color: whitesmoke;
+}
+
+.pchangecolortored{
+    color: red;
+    font-size: 100%;
+    padding-left: 0.5em;
+}
+
+.pictureofme{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    width: auto;
+}
+
+.pnumb1{
+    color: blue;
+    font-style: italic;
+    font-size: 135%;
+}
+
+/*.ui.table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: double;
+    border-width: thick;
+    border-color: red;
+    font-size: 105%;
+    font-weight: bolder;
+}
+
+table thead{
+    background-color: cornflowerblue;
+    width: auto;
+    font-size: 120%;
+}
+
+table thead tr th {
+    width: auto;
+    padding: 0.5em;
+    border: 3px;
+    border-style: solid;
+}
+
+tbody tr td {
+    border: 2px;
+    border-style: solid;
+    border-color: ghostwhite;
+}
+
+td {
+    color: navy;
+}
+
+thead tr th:nth-of-type(even):hover {
+    background-color: darkorange;
+}
+
+thead tr th:nth-of-type(odd):hover {
+    background-color: green;
+}
+
+tr.tablerows :nth-of-type(even):hover {
+    background-color: blue;
+}
+
+tr.tablerows :nth-of-type(odd):hover {
+    background-color: red;
+}
+*/
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin-top: 1em;
+}

@@ -1,0 +1,94 @@
+p {
+    color: #8C190A;
+    font-size: 128%;
+    padding-left: 0.5em;
+}
+
+body {
+    background-color: lightblue;
+}
+
+p#lessonsrightbox {
+   float: right;
+}
+
+table, tbody {
+    color: #93ba11;
+}
+
+th {
+    font-size: 140%;
+}
+
+th#eventsheader1 {
+    font-size: 100%;
+}
+
+th#eventsheader2 {
+    font-size: 100%;
+}
+
+th#eventsheader3 {
+    font-size: 100%;
+}
+
+th#eventsheader4 {
+    font-size: 100%
+}
+
+th#eventsheader5 {
+    font-size: 100%;
+}
+
+footer {
+    text-align: center;
+    font-size: 135%;
+    font-weight: bolder;
+    color: ghostwhite;
+}
+
+.ui.inverted.huge.header {
+    text-decoration: underline
+}
+a {
+    font-size: 130%;
+}
+
+div.header {
+    background-color: lightcoral;
+}
+
+span {
+    background-color: lightblue;
+}
+
+td {
+    font-size: 105%;
+}
+
+div.box1 {
+    border-radius: 5%;
+    width: 240px;
+    height: 230px;
+    border: 3px solid #000;
+    border-color: cornflowerblue;
+    border-style: dashed;
+}
+
+div.box2 {
+    border-radius: 10%;
+    width: 240px;
+    height: 230px;
+    border: 3px solid #000;
+    border-color: whitesmoke;
+    border-style: dashed;
+}
+
+div.box3 {
+    border-radius: 5%;
+    width: 270px;
+    height: 230px;
+    border: 3px solid #000;
+    border-color: #ff7070;
+    border-style: dashed;
+}
